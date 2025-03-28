@@ -1,0 +1,22 @@
+.watch{
+  display: flex;
+  place-self: center;
+  flex-direction:column;
+  background-color: black;
+  color:white;
+  padding:10%;
+  border-radius: 30%;
+  font-size:xx-large;
+}
+button:hover{
+  cursor: pointer;
+}
+button{
+  padding:10%;
+  margin: 5%;
+  font-weight: bolder;
+  border-radius: 30%;
+  border-color: white;
+  border-style: ridge;
+  font-size: larger;
+}
